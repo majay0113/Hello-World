@@ -3,5 +3,7 @@ public class firstProject{
     pubilc static void main{
 
         System.out.println("Hello World");
+        //add student indormation
+        System.out.println("Jay,T0000000")
     }
 }
