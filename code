@@ -1,4 +1,7 @@
-pubilc static void main{
+public class firstProject{
 
-    System.out.println("Hello World");
+    pubilc static void main{
+
+        System.out.println("Hello World");
+    }
 }
